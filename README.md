@@ -4,6 +4,8 @@ The extension:
 - automatically plays and resumes the video at the time it was last closed
 - unmutes the video and sets the volume to 100 %
 
+Available for download on [Chrome Web Store](https://chromewebstore.google.com/detail/jjdleghhdbhifmfhllckkociogapoiih?utm_source=item-share-cb).
+
 ## Chrome Extensions Privacy Policy
 _Effective Date: February 23, 2026_
 
